@@ -27,6 +27,7 @@ The address of Operator (&), and it is the complement of *. It is a unary operat
 **_<font size="4">Syntax:</font>_**\
 ![syntax](syntax.png)
 
+**_<font size="4"> Const values:</font>_**\
 The **_const_** keyword specifies that a variable's value is constant and tells the compiler to prevent the programmer from modifying it.
 ![values1](values1.png)
 
