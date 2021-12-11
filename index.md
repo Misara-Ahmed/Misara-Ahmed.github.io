@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+#<font size="6">"&" Operator </font>
 
-You can use the [editor on GitHub](https://github.com/Misara-Ahmed/Misara-Ahmed.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+-The "&" symbol is used as an operator in C++.\
+-It is used in 2 different places, one as a bitwise and operator and one as a pointer address of operator.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**_<font size="4">1-Bitwise AND: </font>_**
 
-### Markdown
+The bitwise AND operator (&) compares each bit of the first operand to that bit of the second operand.
+If both bits are 1, the bit is set to 1. Otherwise, the bit is set to 0.\
+Both operands to the bitwise AND operator must be of integral types.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![1](1.png)
 
-```markdown
-Syntax highlighted code block
+**_<font size="4">2-Address Of operator: </font>_**
 
-# Header 1
-## Header 2
-### Header 3
+C++ provides two-pointer operators, which are Address of Operator (&) and Indirection Operator (*).\
+A pointer is a variable that contains the address of another variable or you can say that a variable that contains the address of another variable is said to "point to" the other variable. A variable can be any data type including an object, structure or again pointer itself.\
+The address of Operator (&), and it is the complement of *. It is a unary operator that returns the address of the variable(r-value) specified by its operand.
 
-- Bulleted
-- List
+![2](2.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Misara-Ahmed/Misara-Ahmed.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##<font size="6">"const" Keyword </font>
