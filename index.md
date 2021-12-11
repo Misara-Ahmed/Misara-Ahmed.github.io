@@ -24,7 +24,7 @@ The address of Operator (&), and it is the complement of *. It is a unary operat
 
 -the _**const**_ keyword specifies that the object or variable is not modifiable.
 
-**_<font size="4">Syntax: </font>_** 
+**_<font size="4">Syntax:</font>_**\
 ![syntax](syntax.png)
 
 The **_const_** keyword specifies that a variable's value is constant and tells the compiler to prevent the programmer from modifying it.
