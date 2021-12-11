@@ -64,7 +64,7 @@ Value of val :3000
 
 -the _**const**_ keyword specifies that the object or variable is not modifiable.
 
-**_<font size="4">Syntax:</font>_**\
+**_<font size="4">Syntax:</font>_**
 ```
 const declaration ;
 member-function const ;
